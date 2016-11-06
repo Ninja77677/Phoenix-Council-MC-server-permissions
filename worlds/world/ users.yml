@@ -1,0 +1,36 @@
+users:
+  01c9f21b-9a27-4976-b2a2-188cd16e8958:
+    lastname: Ninja_777
+    group: Builder
+    subgroups: []
+    permissions: []
+  250a0df2-a844-4bbb-b682-b2af95d511b2:
+    lastname: Loganblahtimes2
+    group: Builder
+    subgroups: []
+    permissions: []
+  53d53f86-ee4c-4d73-919d-611bce9b235a:
+    lastname: Mega_Sibbz
+    group: Admin
+    subgroups: []
+    permissions: []
+  ca13299a-82e4-4d62-b863-79c016424f8f:
+    lastname: frogjumps8
+    group: Owner
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
