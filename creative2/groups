@@ -1,0 +1,30 @@
+default: default
+groups:
+  owner:
+    permissions: []
+    groups: []
+  default:
+    permissions:
+    - bukkit.command.help
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - essentials.tpa
+    - essentials.tpaaccept
+    - essentials.tpahere
+    - essentials.warp
+    - essentials.warp.list
+    - minecraft.command.help
+    - plots.permpack.basic
+    - plots.permpack.basicflags
+    - plots.use
+    groups: []
+  moderator:
+    permissions:
+    - essentials.mute.exempt
+    groups: []
+  admin:
+    permissions: []
+    groups: []
+  coonwer:
+    permissions: []
+    groups: []
