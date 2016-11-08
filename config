@@ -4,4 +4,4 @@ debug-mode: false
 use-global-files: false
 use-global-users: false
 track-limit: false
-use-custom-permissible: false
+use-custom-permissible: true
