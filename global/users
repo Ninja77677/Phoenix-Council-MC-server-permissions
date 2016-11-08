@@ -1,0 +1,36 @@
+users:
+  23083681-1221-44cb-b76f-c197e6042bae:
+    username: rymate1234
+    permissions: []
+    groups:
+    - default
+    meta:
+      prefix: '&8developer'
+  dba2f115-6cc2-401b-a9e9-b4d27f7c897d:
+    username: codename_B
+    permissions: []
+    groups:
+    - default
+    meta:
+      prefix: '&8old developer'
+  069a79f4-44e9-4726-a5be-fca90e38aaf5:
+    username: Notch
+    permissions: []
+    groups:
+    - default
+    meta:
+      prefix: '&8mojang'
+  f61c45cf-6ad0-4bce-9ee6-a8d91ece6f31:
+    username: pyraetos
+    permissions: []
+    groups:
+    - default
+    meta:
+      prefix: '&3helper'
+  0f730bde-0985-4086-8a3c-0c0446f22548:
+    username: Maester_Mika
+    permissions: []
+    groups:
+    - admin
+    - default
+    - moderator
